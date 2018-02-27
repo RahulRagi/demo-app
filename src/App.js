@@ -58,7 +58,7 @@ class App extends React.Component {
         this.state.newItem="";
         return x;
       });
-
+//dshfdajsfalsdf
     }
     handleEditingChange(event){
     var _changedText=  event.target.value;
